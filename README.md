@@ -24,7 +24,7 @@
 > 
 > 依赖倒置原则：将需要实现的功能抽象为接口（ViewController等），留给下层实现，倒转了依赖关系；
 
-![CreatureUML](https://github.com/Unkrible/java-2017f-homework/raw/master/Fianl%20Project/151220136-许卓尔/Huluwa/ptcs/CreatureUML.png)
+![CreatureUML](https://github.com/Unkrible/java-2017f-homework/raw/master/Fianl%20Project/151220136-许卓尔/Huluwa/pic/CreatureUML.png)
 
 ### Action
 * 抽象Action为接口，以实现生物的各种动作；
@@ -37,7 +37,7 @@
 * 模仿C语言对二维数组的实现，增加N记录一维数组大小，增加y作为二维行的标识；
 > 体现了里氏替换原则，PositionXY可以完全替代Position；
 
-![PositionUML](https://github.com/Unkrible/java-2017f-homework/raw/master/Fianl%20Project/151220136-许卓尔/Huluwa/ptcs/PositionUML.png)
+![PositionUML](https://github.com/Unkrible/java-2017f-homework/raw/master/Fianl%20Project/151220136-许卓尔/Huluwa/pic/PositionUML.png)
 
 
 ### UIView
